@@ -1,7 +1,7 @@
 {
-	"name":"Mr and Mrs",
-	"thumbnail":"mrandmrs.png",
-	"screenshot":"mrandmrs-screenshot.jpg",
+	"name":"His and Hers",
+	"thumbnail":"hisandhers.png",
+	"screenshot":"hisandhers.jpg",
 	"templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
